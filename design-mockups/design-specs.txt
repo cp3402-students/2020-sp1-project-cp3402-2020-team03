@@ -1,0 +1,25 @@
+DESIGN SPECS
+
+BACKGROUND COLOURS:
+Background colour - #272727
+Navbar colour - #1d1d1d
+Content area colour - #232323
+
+DECORATION COLOURS:
+Navbar hover and icons - #e4af34
+
+FONTS:
+Logo - Bodoni MT
+Navbar - Berlin Sans FB
+Content - Century Gothic
+
+FONT COLOURS:
+Logo and navbar font colour - #fff
+Content font colour - #b7b7b7
+
+FONT SIZES:
+Logo - 48pt
+Navbar - 15pt
+Content titles - 20pt (bold)
+Content text - b7b7b7
+
