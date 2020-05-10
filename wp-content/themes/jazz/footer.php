@@ -6,25 +6,51 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package Jazz
+ * @package Jazz_Townsville
  */
 
 ?>
-
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://kit.fontawesome.com/0a31d1e274.js"></script>
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'jazz' ) ); ?>">
-				<?php
-				/* translators: %s: CMS name, i.e. WordPress. */
-				printf( esc_html__( 'Proudly powered by %s', 'jazz' ), 'WordPress' );
-				?>
-			</a>
-			<span class="sep"> | </span>
-				<?php
-				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'jazz' ), 'jazz', '<a href="http://underscores.me/">Underscores.me</a>' );
-				?>
-		</div><!-- .site-info -->
+			<div class="float-container">
+	  		<div class="float-child">
+	    		<div class="footerTitle">
+						<p>Jazz Townsville</p>
+					</div>
+	  		</div>
+	  	<div class="float-child">
+	    	<div class="footerExplore"><p id = "footerHeading">Explore<p></div>
+					<div class="footerNav">
+						<ul id = "exploreUl">
+							<li><a href="home.php">Home</a></li>
+							<li><a href="photos.php">Photos</a></li>
+							<li><a href="bands.php">Bands</a></li>
+							<li><a href="festivals.php">Festivals</a></li>
+							<li><a href="about.php">About</a></li>
+						</ul>
+					</div>
+	  	</div>
+			<div class="float-child">
+	    	<div class="footerVisit"><p id = "footerHeading">Visit</p></div>
+				<p class="address">Chico Rio 247 Flinders Street</p>
+		  </div>
+			<div class="float-child">
+	    	<div class="footerMedia"><p id = "footerHeading">Media<p></div>
+					<div class="row " style="text-align: center">
+							<a href="https://facebook.com/events/s/jazz-club-opening-night-feat-3/2878385435515845/?ti=icl">
+									<i class="fab fa-facebook-square logo" style="text-align: right;";></i>
+							</a>
+							<a href="mailto:townsvillejazz@icloud.com">
+									<i class="fas fa-envelope-square logo" style="text-align: left;"></i>
+							</a>
+					</div>
+	  	</div>
+		</div>
+		<div class ="Copyright">
+			<p class=>Last updated  19 March 2020 © 2006</p>
+		</div>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
