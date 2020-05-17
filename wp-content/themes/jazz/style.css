@@ -985,3 +985,8 @@ object {
 .logo:hover {
 	color: #C1A800;
 }
+
+.main-navigation {
+    background-color: #191919;
+    padding: 2vmin;
+}
