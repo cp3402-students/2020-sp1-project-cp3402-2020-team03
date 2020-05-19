@@ -24,9 +24,9 @@
 	    	<div class="footerExplore"><p id = "footerHeading">Explore<p></div>
 					<div class="footerNav">
 						<ul id = "exploreUl">
-							<li><a href="home.php">Home</a></li>
+							<li><a href="http://localhost/jazztownsville/">Home</a></li>
 							<li><a href="photos.php">Photos</a></li>
-							<li><a href="bands.php">Bands</a></li>
+							<li><a href="bands">Bands</a></li>
 							<li><a href="festivals.php">Festivals</a></li>
 							<li><a href="about.php">About</a></li>
 						</ul>

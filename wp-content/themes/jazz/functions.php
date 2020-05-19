@@ -182,4 +182,11 @@ require get_template_directory() . '/inc/customizer.php';
 if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
-
+function wpb_hidetitle_class($classes) {
+if ( is_single() || is_page() ) :
+$classes[] = 'hidetitle';
+return $classes;
+endif;
+return $classes;
+}
+add_filter('post_class', 'wpb_hidetitle_class');
