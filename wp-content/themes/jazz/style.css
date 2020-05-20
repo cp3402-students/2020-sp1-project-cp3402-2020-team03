@@ -860,6 +860,17 @@ object {
 	display: inline-block;
 }
 
+/* Banner Image for the 404 page------------------------------------------
+--------------------------------------------*/
+
+#banner-image {
+  width: 100%;
+  background-image: url(image url);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
+
 /*--------------------------------------------------------------
 ## Captions
 --------------------------------------------------------------*/
