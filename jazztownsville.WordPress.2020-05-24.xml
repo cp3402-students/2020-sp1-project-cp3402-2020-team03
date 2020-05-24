@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-05-24 03:46" -->
+	<!-- generator="WordPress/5.4.1" created="2020-05-24 03:52" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,56 +27,1569 @@
 
 <channel>
 	<title>Jazz Townsville</title>
-	<link>http://jazztownsville.test</link>
-	<description></description>
-	<pubDate>Sun, 24 May 2020 03:46:54 +0000</pubDate>
+	<link>http://192.168.33.10/jazztownsville</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Sun, 24 May 2020 03:52:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://jazztownsville.test/</wp:base_site_url>
-	<wp:base_blog_url>http://jazztownsville.test</wp:base_blog_url>
+	<wp:base_site_url>http://192.168.33.10/jazztownsville</wp:base_site_url>
+	<wp:base_blog_url>http://192.168.33.10/jazztownsville</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@local.test]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Sanega]]></wp:author_login><wp:author_email><![CDATA[james.raymer@my.jcu.edu.au]]></wp:author_email><wp:author_display_name><![CDATA[Sanega]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-				
+		<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+				<wp:term>
+		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[rsgr]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[rsgr]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[1]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[rsgr]]></wp:term_slug><wp:term_name><![CDATA[rsgr]]></wp:term_name>
+</wp:term>
+
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 		<item>
-		<title>Location</title>
-		<link>http://jazztownsville.test/location/</link>
-		<pubDate>Sat, 16 May 2020 03:40:12 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://jazztownsville.test/?page_id=22</guid>
+		<title>homepageBackground</title>
+		<link>http://192.168.33.10/jazztownsville/homepagebackground/</link>
+		<pubDate>Sun, 17 May 2020 19:49:18 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2>Fish Inn at the Rock Pool</h2>
-<!-- /wp:heading -->
-
-<!-- wp:image {"id":25,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://jazztownsville.test/wp-content/uploads/2020/05/location1-1024x681.png" alt="" class="wp-image-25"/></figure>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>25</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-17 19:49:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-17 19:49:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepagebackground]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/homepageBackground.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:896;s:6:"height";i:233;s:4:"file";s:30:"2020/05/homepageBackground.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:29:"homepageBackground-300x78.jpg";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"homepageBackground-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"homepageBackground-768x200.jpg";s:5:"width";i:768;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>homepageBackground-1</title>
+		<link>http://192.168.33.10/jazztownsville/homepagebackground-1/</link>
+		<pubDate>Sun, 17 May 2020 19:50:26 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-17 19:50:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-17 19:50:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepagebackground-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/homepageBackground-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:896;s:6:"height";i:233;s:4:"file";s:32:"2020/05/homepageBackground-1.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:31:"homepageBackground-1-300x78.jpg";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"homepageBackground-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"homepageBackground-1-768x200.jpg";s:5:"width";i:768;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>homepageBackground-2</title>
+		<link>http://192.168.33.10/jazztownsville/39-2/homepagebackground-2/</link>
+		<pubDate>Tue, 19 May 2020 18:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:35:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:35:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[homepagebackground-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>39</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/homepageBackground-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:896;s:6:"height";i:233;s:4:"file";s:32:"2020/05/homepageBackground-2.jpg";s:5:"sizes";a:3:{s:6:"medium";a:4:{s:4:"file";s:31:"homepageBackground-2-300x78.jpg";s:5:"width";i:300;s:6:"height";i:78;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"homepageBackground-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"homepageBackground-2-768x200.jpg";s:5:"width";i:768;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpe036f675_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpe036f675_05_06/</link>
+		<pubDate>Tue, 19 May 2020 18:46:04 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:46:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:46:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpe036f675_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpe036f675_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:330;s:6:"height";i:125;s:4:"file";s:28:"2020/05/wpe036f675_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpe036f675_05_06-300x114.jpg";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpe036f675_05_06-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpc19bfa9e_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpc19bfa9e_05_06/</link>
+		<pubDate>Tue, 19 May 2020 18:46:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:46:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:46:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpc19bfa9e_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpc19bfa9e_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:265;s:6:"height";i:125;s:4:"file";s:28:"2020/05/wpc19bfa9e_05_06.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpc19bfa9e_05_06-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpe036f675_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpe036f675_05_06-1/</link>
+		<pubDate>Tue, 19 May 2020 18:46:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:46:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:46:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpe036f675_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpe036f675_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:330;s:6:"height";i:125;s:4:"file";s:30:"2020/05/wpe036f675_05_06-1.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:30:"wpe036f675_05_06-1-300x114.jpg";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpe036f675_05_06-1-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpec273c0b_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpec273c0b_05_06/</link>
+		<pubDate>Tue, 19 May 2020 18:46:19 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpec273c0b_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:46:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:46:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpec273c0b_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpec273c0b_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpec273c0b_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:108;s:6:"height";i:143;s:4:"file";s:28:"2020/05/wpec273c0b_05_06.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp1e7d64ab_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wp1e7d64ab_05_06/</link>
+		<pubDate>Tue, 19 May 2020 18:46:24 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp1e7d64ab_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:46:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:46:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp1e7d64ab_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp1e7d64ab_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp1e7d64ab_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:147;s:4:"file";s:28:"2020/05/wp1e7d64ab_05_06.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp27dbdb84_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wp27dbdb84_05_06/</link>
+		<pubDate>Tue, 19 May 2020 18:46:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp27dbdb84_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:46:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:46:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp27dbdb84_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp27dbdb84_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp27dbdb84_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:116;s:6:"height";i:133;s:4:"file";s:28:"2020/05/wp27dbdb84_05_06.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpc19bfa9e_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpc19bfa9e_05_06-1/</link>
+		<pubDate>Tue, 19 May 2020 18:51:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:51:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:51:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpc19bfa9e_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpc19bfa9e_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:265;s:6:"height";i:125;s:4:"file";s:30:"2020/05/wpc19bfa9e_05_06-1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpc19bfa9e_05_06-1-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpc19bfa9e_05_06-2</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpc19bfa9e_05_06-2/</link>
+		<pubDate>Tue, 19 May 2020 18:51:31 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>66</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:51:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:51:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpc19bfa9e_05_06-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpc19bfa9e_05_06-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:265;s:6:"height";i:125;s:4:"file";s:30:"2020/05/wpc19bfa9e_05_06-2.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpc19bfa9e_05_06-2-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpe036f675_05_06-2</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpe036f675_05_06-2/</link>
+		<pubDate>Tue, 19 May 2020 18:51:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:51:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:51:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpe036f675_05_06-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpe036f675_05_06-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:330;s:6:"height";i:125;s:4:"file";s:30:"2020/05/wpe036f675_05_06-2.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:30:"wpe036f675_05_06-2-300x114.jpg";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpe036f675_05_06-2-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpc19bfa9e_05_06-3</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpc19bfa9e_05_06-3/</link>
+		<pubDate>Tue, 19 May 2020 18:55:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:55:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:55:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpc19bfa9e_05_06-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpc19bfa9e_05_06-3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:265;s:6:"height";i:125;s:4:"file";s:30:"2020/05/wpc19bfa9e_05_06-3.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpc19bfa9e_05_06-3-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpe036f675_05_06-3</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpe036f675_05_06-3/</link>
+		<pubDate>Tue, 19 May 2020 18:55:20 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:55:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:55:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpe036f675_05_06-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpe036f675_05_06-3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:330;s:6:"height";i:125;s:4:"file";s:30:"2020/05/wpe036f675_05_06-3.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:30:"wpe036f675_05_06-3-300x114.jpg";s:5:"width";i:300;s:6:"height";i:114;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpe036f675_05_06-3-150x125.jpg";s:5:"width";i:150;s:6:"height";i:125;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpec273c0b_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wpec273c0b_05_06-1/</link>
+		<pubDate>Tue, 19 May 2020 18:58:05 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpec273c0b_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:58:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:58:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpec273c0b_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpec273c0b_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpec273c0b_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:108;s:6:"height";i:143;s:4:"file";s:30:"2020/05/wpec273c0b_05_06-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp1e7d64ab_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wp1e7d64ab_05_06-1/</link>
+		<pubDate>Tue, 19 May 2020 18:58:07 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp1e7d64ab_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:58:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:58:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp1e7d64ab_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp1e7d64ab_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp1e7d64ab_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:128;s:6:"height";i:147;s:4:"file";s:30:"2020/05/wp1e7d64ab_05_06-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp27dbdb84_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/bands/wp27dbdb84_05_06-1/</link>
+		<pubDate>Tue, 19 May 2020 18:58:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp27dbdb84_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:58:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:58:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp27dbdb84_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>58</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp27dbdb84_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp27dbdb84_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:116;s:6:"height";i:133;s:4:"file";s:30:"2020/05/wp27dbdb84_05_06-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpa296f048_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wpa296f048_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:06:08 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpa296f048_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:06:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:06:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpa296f048_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpa296f048_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpa296f048_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:610;s:6:"height";i:307;s:4:"file";s:28:"2020/05/wpa296f048_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpa296f048_05_06-300x151.jpg";s:5:"width";i:300;s:6:"height";i:151;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpa296f048_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp0785597f_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wp0785597f_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:12:40 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp0785597f_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:12:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:12:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp0785597f_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp0785597f_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp0785597f_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:610;s:6:"height";i:177;s:4:"file";s:28:"2020/05/wp0785597f_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:27:"wp0785597f_05_06-300x87.jpg";s:5:"width";i:300;s:6:"height";i:87;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp0785597f_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp326e5d43_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wp326e5d43_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:12:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp326e5d43_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>88</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:12:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:12:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp326e5d43_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp326e5d43_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp326e5d43_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:610;s:6:"height";i:403;s:4:"file";s:28:"2020/05/wp326e5d43_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp326e5d43_05_06-300x198.jpg";s:5:"width";i:300;s:6:"height";i:198;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp326e5d43_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpb437a762_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wpb437a762_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:13:52 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb437a762_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:13:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:13:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpb437a762_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb437a762_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpb437a762_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:610;s:6:"height";i:347;s:4:"file";s:28:"2020/05/wpb437a762_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpb437a762_05_06-300x171.jpg";s:5:"width";i:300;s:6:"height";i:171;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpb437a762_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpb437a762_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wpb437a762_05_06-1/</link>
+		<pubDate>Tue, 19 May 2020 19:14:08 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb437a762_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:14:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:14:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpb437a762_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb437a762_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpb437a762_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:610;s:6:"height";i:347;s:4:"file";s:30:"2020/05/wpb437a762_05_06-1.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:30:"wpb437a762_05_06-1-300x171.jpg";s:5:"width";i:300;s:6:"height";i:171;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpb437a762_05_06-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp3c2b60cb_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wp3c2b60cb_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:15:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp3c2b60cb_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:15:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:15:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp3c2b60cb_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp3c2b60cb_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp3c2b60cb_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:540;s:6:"height";i:201;s:4:"file";s:28:"2020/05/wp3c2b60cb_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp3c2b60cb_05_06-300x112.jpg";s:5:"width";i:300;s:6:"height";i:112;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp3c2b60cb_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp345b26d4_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wp345b26d4_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp345b26d4_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:16:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:16:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp345b26d4_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp345b26d4_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp345b26d4_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:375;s:6:"height";i:242;s:4:"file";s:28:"2020/05/wp345b26d4_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp345b26d4_05_06-300x194.jpg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp345b26d4_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpd4e994e9_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/wpd4e994e9_05_06/</link>
+		<pubDate>Tue, 19 May 2020 19:16:48 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpd4e994e9_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:16:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:16:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpd4e994e9_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpd4e994e9_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpd4e994e9_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:410;s:6:"height";i:290;s:4:"file";s:28:"2020/05/wpd4e994e9_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpd4e994e9_05_06-300x212.jpg";s:5:"width";i:300;s:6:"height";i:212;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpd4e994e9_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpddf7df01_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/stokes-nicholson-big-band/wpddf7df01_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:07:58 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpddf7df01_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:07:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:07:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpddf7df01_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>112</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpddf7df01_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpddf7df01_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:609;s:6:"height";i:348;s:4:"file";s:28:"2020/05/wpddf7df01_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpddf7df01_05_06-300x171.jpg";s:5:"width";i:300;s:6:"height";i:171;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpddf7df01_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpa733f63c_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/stokes-nicholson-big-band/wpa733f63c_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:08:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpa733f63c_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>115</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:08:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:08:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpa733f63c_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>112</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpa733f63c_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpa733f63c_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:617;s:6:"height";i:362;s:4:"file";s:28:"2020/05/wpa733f63c_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpa733f63c_05_06-300x176.jpg";s:5:"width";i:300;s:6:"height";i:176;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpa733f63c_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpb0fb622b_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/stokes-nicholson-big-band/wpb0fb622b_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:09:21 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb0fb622b_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:09:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:09:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpb0fb622b_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>112</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb0fb622b_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpb0fb622b_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:576;s:6:"height";i:373;s:4:"file";s:28:"2020/05/wpb0fb622b_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpb0fb622b_05_06-300x194.jpg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpb0fb622b_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp847088c0_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/stokes-nicholson-big-band/wp847088c0_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp847088c0_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:09:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:09:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp847088c0_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>112</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp847088c0_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp847088c0_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:609;s:6:"height";i:258;s:4:"file";s:28:"2020/05/wp847088c0_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp847088c0_05_06-300x127.jpg";s:5:"width";i:300;s:6:"height";i:127;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp847088c0_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp8b054278_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/stokes-nicholson-big-band/wp8b054278_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp8b054278_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:09:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:09:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp8b054278_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>112</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp8b054278_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp8b054278_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:609;s:6:"height";i:230;s:4:"file";s:28:"2020/05/wp8b054278_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp8b054278_05_06-300x113.jpg";s:5:"width";i:300;s:6:"height";i:113;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp8b054278_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>b44ab6b9e38</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/b44ab6b9e38/</link>
+		<pubDate>Thu, 21 May 2020 14:15:47 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/b44ab6b9e38.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>129</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:15:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:15:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[b44ab6b9e38]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/b44ab6b9e38.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/b44ab6b9e38.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:188;s:4:"file";s:23:"2020/05/b44ab6b9e38.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"b44ab6b9e38-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>354a7525ffd1</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/354a7525ffd1/</link>
+		<pubDate>Thu, 21 May 2020 14:16:01 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/354a7525ffd1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>130</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:16:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:16:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[354a7525ffd1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/354a7525ffd1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/354a7525ffd1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:199;s:6:"height";i:199;s:4:"file";s:24:"2020/05/354a7525ffd1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"354a7525ffd1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>66935635d108</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/66935635d108/</link>
+		<pubDate>Thu, 21 May 2020 14:16:28 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/66935635d108.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>131</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:16:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:16:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[66935635d108]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/66935635d108.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/66935635d108.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:195;s:4:"file";s:24:"2020/05/66935635d108.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"66935635d108-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>bc56e4507be8</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/bc56e4507be8/</link>
+		<pubDate>Thu, 21 May 2020 14:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/bc56e4507be8.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>132</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:16:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:16:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bc56e4507be8]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/bc56e4507be8.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/bc56e4507be8.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:200;s:6:"height";i:160;s:4:"file";s:24:"2020/05/bc56e4507be8.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:24:"bc56e4507be8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp53801e22_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/wp53801e22_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:18:33 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp53801e22_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:18:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:18:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp53801e22_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp53801e22_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp53801e22_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:356;s:6:"height";i:506;s:4:"file";s:28:"2020/05/wp53801e22_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp53801e22_05_06-211x300.jpg";s:5:"width";i:211;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp53801e22_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp84db88d5_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/wp84db88d5_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:18:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp84db88d5_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:18:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:18:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp84db88d5_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp84db88d5_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp84db88d5_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:356;s:6:"height";i:474;s:4:"file";s:28:"2020/05/wp84db88d5_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp84db88d5_05_06-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp84db88d5_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpabb2574b_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/wpabb2574b_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:18:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpabb2574b_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:18:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:18:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpabb2574b_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpabb2574b_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpabb2574b_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:356;s:6:"height";i:410;s:4:"file";s:28:"2020/05/wpabb2574b_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpabb2574b_05_06-260x300.jpg";s:5:"width";i:260;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpabb2574b_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpac5137d9_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/wpac5137d9_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:18:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpac5137d9_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>139</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:18:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:18:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpac5137d9_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>128</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpac5137d9_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpac5137d9_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:354;s:6:"height";i:507;s:4:"file";s:28:"2020/05/wpac5137d9_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wpac5137d9_05_06-209x300.jpg";s:5:"width";i:209;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpac5137d9_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp48fd89be_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/the-reg-braun-four/wp48fd89be_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:20:35 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp48fd89be_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:20:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:20:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp48fd89be_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>141</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp48fd89be_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp48fd89be_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:343;s:4:"file";s:28:"2020/05/wp48fd89be_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp48fd89be_05_06-262x300.jpg";s:5:"width";i:262;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp48fd89be_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp6ffc8454_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/the-reg-braun-four/wp6ffc8454_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:21:37 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp6ffc8454_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:21:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:21:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp6ffc8454_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>141</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp6ffc8454_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp6ffc8454_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:98;s:6:"height";i:61;s:4:"file";s:28:"2020/05/wp6ffc8454_05_06.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Hello world!</title>
+		<link>http://192.168.33.10/jazztownsville/hello-world__trashed/</link>
+		<pubDate>Sun, 03 May 2020 04:06:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-03 04:06:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-03 04:06:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1589916960]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-05-03 04:06:25]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-05-03 04:06:25]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title>Homepage</title>
+		<link>http://192.168.33.10/jazztownsville/</link>
+		<pubDate>Sun, 17 May 2020 20:12:26 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=39</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:image {"align":"center","id":42,"width":1920,"height":233,"sizeSlug":"large","className":"homepageImage"} -->
+<div class="wp-block-image homepageImage"><figure class="aligncenter size-large is-resized"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/homepageBackground-2.jpg" alt="" class="wp-image-42" width="1920" height="233"/></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading -->
-<h2>Chico Rio</h2>
+<!-- wp:heading {"align":"center"} -->
+<h2 class="has-text-align-center">Welcome to the Townsville Jazz Club</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>247 Flinders Street. &nbsp;&nbsp;Ph: 4772 1073</p>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
+<p>Our friendly and relaxed club has a strong history of supporting jazz in Townsville and has made a great contribution to the Townsville Arts and Music Community over many years.  We encourage new guests to become members and to actively participate in the club’s functions.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":24,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="http://jazztownsville.test/wp-content/uploads/2020/05/location2-1024x638.png" alt="" class="wp-image-24"/></figure>
-<!-- /wp:image -->]]></content:encoded>
+<!-- wp:paragraph -->
+<p><strong>Come and enjoy our regular jazz nights &nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We feature a range of very talented local bands playing great jazz music in a relaxed yet vibrant environment. The regular jazz nights feature a sit-in bracket and dancers are most welcome.<br>Meals and bar facility available.       No need to book.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Where:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Fish Inn on The Strand (near the Rockpool)<br>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunday 5.00pm till 8.00pm &nbsp;&nbsp;<br>Date: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the Program page for dates<em><br></em><br>Where: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chico Rio 247 Flinders Street<br>Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friday 7.00 pm -&nbsp;!0.00 pm&nbsp;&nbsp;&nbsp;<br>When: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check the Program page for dates</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><br>Cost:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Membership now due see members page.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cover charge for regular club nights at both venues:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$10 members, &nbsp;$15 non-members</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Enquiries:</strong>&nbsp;&nbsp;&nbsp;Phone &nbsp;Coralie Costigan secretary 0431618618<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Check program page for details</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
+<p><strong>Next session: No Jazz Club till further notice.</strong> Further notices regarding Jazz Club scheduled sessions will be advised prior to each event over the coming weeks.    In these uncertain times with the closure and cancellations of public events, the Club will be following all health directives regarding social gatherings and acting accordingly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We wish you all well. &nbsp;Stay safe and be careful.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-16 03:40:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-16 03:40:12]]></wp:post_date_gmt>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-17 20:12:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-17 20:12:26]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[location]]></wp:post_name>
+		<wp:post_name><![CDATA[39-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-Home.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>jazz</title>
+		<link>http://192.168.33.10/jazztownsville/jazz/</link>
+		<pubDate>Tue, 19 May 2020 18:38:04 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/jazz/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:38:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:38:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[jazz]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Bands</title>
+		<link>http://192.168.33.10/jazztownsville/bands/</link>
+		<pubDate>Tue, 19 May 2020 18:59:25 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=58</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Meet The Bands</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":71,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="pacific-mainstream-jazz-band"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc19bfa9e_05_06-3.jpg" alt="" class="wp-image-71"/></a></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Pacific Mainstream Jazz Band</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":72,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="stokes-nicholson-big-band"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpe036f675_05_06-3.jpg" alt="" class="wp-image-72"/></a></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Stokes Nicholson Big Band</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":79,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://192.168.33.10/jazztownsville/counterpoint/"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpec273c0b_05_06-1.jpg" alt="" class="wp-image-79"/></a></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Counterpoint</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":80,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp1e7d64ab_05_06-1.jpg" alt="" class="wp-image-80"/></a></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Type A Personality Jazz Ensemble</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image {"align":"center","id":81,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="http://192.168.33.10/jazztownsville/the-reg-braun-four/"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp27dbdb84_05_06-1.jpg" alt="" class="wp-image-81"/></a></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">The Reg Braun Four</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 18:59:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 18:59:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bands]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -85,220 +1598,168 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Member Information</title>
-		<link>http://jazztownsville.test/member-information/</link>
-		<pubDate>Sat, 16 May 2020 04:31:39 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://jazztownsville.test/?page_id=33</guid>
+		<title>Pacific Mainstream Jazz Band</title>
+		<link>http://192.168.33.10/jazztownsville/pacific-mainstream-jazz-band/</link>
+		<pubDate>Tue, 19 May 2020 19:05:04 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=83</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>The current Townsville Jazz Club committee members are:</p>
-<!-- /wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>President</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Bob Passmore</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Phone: 0438 093 503</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>Vice President</strong>&nbsp;&nbsp;</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Jeremy Hawker</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Phone: 0408 959 979</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>Secretary</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Coralie Costigan</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Phone: 0431 618 618</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>Treasurer</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Phil McIntyre</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Phone: 0412 408 061</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>Committee Members</strong></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Rob Bray</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Steve Gilbert</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Andrew Dajski</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Bob Spillane</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Julie McIntyre</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Reg Braun</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Pacific Mainstream Jazz Band</h1>
+<!-- /wp:heading -->
 
 <!-- wp:spacer -->
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:paragraph -->
-<p>In 2020, the Club presents a wide variety of jazz styles at two different venues.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Chico Rio (upstairs) 247 Flinders Street Friday 7 to10 pm and The Fish Inn on The Strand &nbsp;Sunday 5 to 8 pm.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Both venues are air conditioned and have meals available. &nbsp;<br>Cover charge for regular sessions: members $10, non-members $15. Cover charge may be higher on special nights.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Refer to Program page for current information regarding each venue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Membership runs from January to December each year.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To become a member click on the application form button and download, fill in the details, save and print the form.&nbsp; Please hand the membership form to a committee member.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Payment can be made by direct deposit or please pay to a committee member</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer -->
-<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>Pay your subscription to: &nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>BSB 484799 &nbsp;Account No. 101868841 Include your surname please.</p>
-<!-- /wp:paragraph -->
-
 <!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>Single Member: $30</p>
+<p>BMJB is to the best of our knowledge Queensland's Longest running jazz band and was founded in February 1974.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Original members of the band were:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Jan Aleman - Guitar</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Larry Thomson - Trombone</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Paul Waters - Clarinet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ivan Hauri - Clarinet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Luke Portier - Bass</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bob Hebden - Drums</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Les Nicholson - Trumpet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 1975 not long after starting John Ruffle and Nev Minon joined the band and Bob Passmore and Red Huxley joined around 1985.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 1978 PMJB recorded the first ever locally recorded and produced vinyl album engineered by Eric Ball. PMJB has recorded on ABC radio with Gospel singer Shereen Malamoo and in 1982 had its own three-show jazz series on Channel 7 Television titled&nbsp;<em>Front Line Jazz</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PMJB has appeared at Festivals all over Queensland and appeared at the Australian Jazz Festival in</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1978.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The band's music style supports its name and the music ranges from early Trad, to mainstream, to swing with a hint of modern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The band’s motto is take the music seriously but not yourself.<br><br>John, Nev, Red, Bob (Passmore) and Les are still in the band which plays on the 4th Sunday of each month as the house band for the Townsville Jazz Club.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":91,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp3c2b60cb_05_06.jpg" alt="" class="wp-image-91"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>PMJB 2002&nbsp;(L-R) John Ruffle &nbsp;piano, Red Huxley &nbsp;bass, Bob Hebden guitar, Steve Wright &nbsp;drums, John Trigg &nbsp;trombone, Les Nicholson trumpet, Mike Faragher soprano sax, Bob Passmore &nbsp;tenor sax</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":93,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpd4e994e9_05_06.jpg" alt="" class="wp-image-93"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>PMJB 1974<br><br>(L-R) Bob Hebden drums, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paul Waters clarinet,<br>Jan Aleman guitar, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ivan Hauri clarinet,<br>Les Nicholson trumpet, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Larry Thomson trombone<br>Luke Portier – bass</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Double Membership: $40</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":85,"sizeSlug":"full"} -->
+<div class="wp-block-image"><figure class="aligncenter size-full"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpa296f048_05_06.jpg" alt="" class="wp-image-85"/></figure></div>
+<!-- /wp:image -->
 
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Single Pensioner $25</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
+<!-- wp:paragraph -->
+<p><strong>The new Pacific Mainstream Jazz Band 2014</strong></p>
+<!-- /wp:paragraph -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>Double Pensioner $35</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- wp:paragraph -->
+<p>(L-R) Les Nicholson &nbsp;trumpet, Oscar Smith banjo &amp; guitar, John Ruffle piano, Richard Juszczyk drums, &nbsp;Bob Passmore &nbsp;saxophone &amp; double bass, Neville Minon trombone</p>
+<!-- /wp:paragraph -->
 
-<!-- wp:file {"id":39,"href":"http://jazztownsville.test/wp-content/uploads/2020/05/Membership-forms-2019-TJC.pdf"} -->
-<div class="wp-block-file"><a href="http://jazztownsville.test/wp-content/uploads/2020/05/Membership-forms-2019-TJC.pdf">Membership Form</a><a href="http://jazztownsville.test/wp-content/uploads/2020/05/Membership-forms-2019-TJC.pdf" class="wp-block-file__button" download>Download</a></div>
-<!-- /wp:file -->
+<!-- wp:image {"id":87,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp0785597f_05_06.jpg" alt="" class="wp-image-87"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":88,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp326e5d43_05_06.jpg" alt="" class="wp-image-88"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>PMJB 2013 (L-R) Red Huxley &nbsp;bass, Neville Minon &nbsp;trombone, Oscar Smith guitar,<br>Bob Hebden &nbsp;drums, Bob Passmore sax, Les Nicholson &nbsp;trumpet, John Ruffle &nbsp;piano</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":90,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb437a762_05_06-1.jpg" alt="" class="wp-image-90"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":92,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp345b26d4_05_06.jpg" alt="" class="wp-image-92"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>PMJB 1978&nbsp;-&nbsp;playing at the Mileham Hayes Jazz Festival in St Lucia, Brisbane</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-16 04:31:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-16 04:31:39]]></wp:post_date_gmt>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-19 19:05:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-19 19:05:04]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[member-information]]></wp:post_name>
+		<wp:post_name><![CDATA[pacific-mainstream-jazz-band]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -306,6 +1767,673 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title>Stokes Nicholson Big Band</title>
+		<link>http://192.168.33.10/jazztownsville/stokes-nicholson-big-band/</link>
+		<pubDate>Thu, 21 May 2020 14:07:36 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=112</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Stokes Nicholson Big Band</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The Stokes Nicholson Big Band (SNBB) was formed in 1991 through collaboration between the late Roy Stokes and Les Nicholson. Each man had his own individual reasons for wanting a Big Band, perhaps influenced by the difference in their ages with Roy being 17 years older than Les. Roy wanted to create an opportunity to keep experienced musicians playing challenging music so their talents didn't go rusty. Les came from a different perspective and wanted to provide an opportunity for music students of all ages to sit beside experienced jazz musicians to absorb the musical synergy that classroom teaching alone cannot develop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A number of experienced musicians were invited to join the various sections of the new Big Band with most sections being led by a member of Les' already well-established Pacific Mainstream Jazz Band. The original Principals were Roy Stokes (not a member of PMJB), saxophone; Les Nicholson, trumpet; Neville Minon, trombone; and Bob Hebden, rhythm. Roy, Neville and Peter Alloway were all still private music teachers at this time and some of their pupils were the first students to be part of this adventure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Stokes Nicholson Big Band was up and running, meeting once a month for rehearsals with an expectation that each section would practice individually or as a group in between these rehearsals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sadly Roy passed away on 1st January 1993 after a period of illness. Les continued to manage the band and conduct rehearsals, as well as playing first trumpet. In 1997 he enlisted the help of John Ruffle who took on the role of Musical Director, allowing Les to relax a little and enjoy his playing more. Roy would no doubt be very proud to see how much his beloved Big Band has developed since its formation as it is now a very accomplished band with a diverse repertoire and the technical expertise capable of backing great Jazz singers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The band today demonstrates it has achieved the aims of both Roy and Les with experienced musicians arriving in town and feeling very proud to join such a powerful Big Band. A number of the original student members from 1991 are still in the band and have now joined the ranks of the experienced musicians and new students are still progressing from school bands to the Stokes Nicholson Big Band.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":114,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpddf7df01_05_06.jpg" alt="" class="wp-image-114"/></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":115,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpa733f63c_05_06.jpg" alt="" class="wp-image-115"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Watch the band in action here:</strong><br><strong> </strong><a href="http://www.abc.net.au/local/videos/2012/01/24/3414713.htm">http://www.abc.net.au/local/videos/2012/01/24/3414713.htm</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":119,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpb0fb622b_05_06.jpg" alt="" class="wp-image-119"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":120,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp847088c0_05_06.jpg" alt="" class="wp-image-120"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":121,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp8b054278_05_06.jpg" alt="" class="wp-image-121"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:07:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:07:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[stokes-nicholson-big-band]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Counterpoint</title>
+		<link>http://192.168.33.10/jazztownsville/counterpoint/</link>
+		<pubDate>Thu, 21 May 2020 14:16:35 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=128</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Counterpoint</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"align":"center","id":129,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/b44ab6b9e38.jpg" alt="" class="wp-image-129"/></figure></div>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":130,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/354a7525ffd1.jpg" alt="" class="wp-image-130"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":131,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/66935635d108.jpg" alt="" class="wp-image-131"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":132,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/bc56e4507be8.jpg" alt="" class="wp-image-132"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>Bob Passmore formed Counterpoint around 1991 when he first became involved with the NQ Jazz Club at the Rugby League Club in Redpath Street, North Ward. The band’s name is from the musical term counterpoint – a melody added as accompaniment to an existing melody – somewhat like jazz...<br><br>Since those early days Counterpoint basically operates as a vehicle to showcase visiting (or local) musicians because of its fluid membership.<br><br>Current basic trio line-up is<br>Piano &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;John Ruffle or Steve Martin<br>Drums &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Reg Braun or Doug Lye<br>Bass &amp; sax &nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Bob Passmore<br><br><br>Additional members<br>Vocals -&nbsp;Vicki Salisbury or Sara Shaw</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horns &nbsp;-&nbsp;Les Nicholson, David Salisbury<br>Guitar &nbsp;-&nbsp;Larry Thomson<br><br>Counterpoint plays Swing, Modern Jazz (generally not bop or fusion) and Latin styles.<br><br>Musical Biography&nbsp;– Bob Passmore</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Had three months of piano lessons when about 10 years of age, first started saxophone (alto) at age 14, played country dance bands from about 15 to 19 years old. From age 20 to 38 years mainly played in pub bands, show bands (very little jazz) in both Brisbane and Townsville.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Around 1974/75 Bob played with the Battersby Big Band Sweet Inspiration on a regular TV show and at the Musos Ball at the beautiful old Cloudland Ballroom in Brisbane which had the best dance floor imaginable.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A couple of years later, just before he came to Townsville, Bob was offered an opportunity to play in the Lotus Room (which was Brisbane’s most well-known jazz club) and the spot was for a bass player. “So I had to learn overnight! I was awful for a long while!” recalls Bob.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In about 1985 Bob started working with Larry Thomson and developing his knowledge of jazz – which had been a passion since a very early age. Muggsy Spanier, Louis Jordan, Ray Charles and Freddy Gardiner were his earliest influences. Around this time Bob joined Les Nicholson’s Pacific Mainstream Jazz Band and is still playing sax in this band.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When Brian Lane raised the idea in 1997 of starting an activity to encourage young jazz musicians Bob became one of the Directors of Nth Qld Junior Jazz festival Inc. which ran for seven years. He has also been heavily involved in all of the Palmer Street Jazz Festivals since it commenced in 1997.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bob’s association with NQ Jazz Club has continued since the early 1990s and in 2011 he joined the committee with the primary role of co-ordinating the jazz bands for the club’s annual program of bi-monthly gigs. In addition to this role, Bob co-ordinates bands for a variety of venues throughout the year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the words of Steve martin, a fellow Townsville jazz musician “Bob is probably the current father of jazz in Townsville. It would not be what it is today without his constant input and enthusiasm driving it along... finding gigs... talking to management etc., etc.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":136,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp53801e22_05_06.jpg" alt="" class="wp-image-136"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":137,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp84db88d5_05_06.jpg" alt="" class="wp-image-137"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":138,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpabb2574b_05_06.jpg" alt="" class="wp-image-138"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":139,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpac5137d9_05_06.jpg" alt="" class="wp-image-139"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>128</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:16:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:16:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[counterpoint]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>The Reg Braun Four</title>
+		<link>http://192.168.33.10/jazztownsville/the-reg-braun-four/</link>
+		<pubDate>Thu, 21 May 2020 14:20:45 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=141</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">TRB4 (The Reg Braun Four)</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The story so far by Reg Braun...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>TRB4 formed in early 2010. My old mate, Bob Passmore, suspected that Gavin Forno (bass guitar), Rebecca McHutchison (saxophone &amp; vocals), Mark Wyer (piano) and myself (drums) might sound good together. Our first gig confirmed the wisdom of Bob’s discerning ears. We ‘clicked’ right from the start. We’d thrown around all sorts of names for our ensemble and finally settled on TRB4, in time for the 2010 Palmer Street Jazz Festival.<br><br>We all play with many other groups and bring those experiences with us to TRB4. This synthesises into unique musical performances using all the colours on the palette as we collaborate for the greater good of the music.<br><br>Rebecca’s smouldering ballads can stand the hair up on the back of your neck. Mark’s piano has a glorious elegance. His technical brilliance is balanced with spaciousness and nuance. Gavin’s bass can lure us into funkier territory. There’s always new ways to interpret the old standards. As well as foot stomping swing we like to explore playing softly and slowly, exploring the nuance of the song. We all particularly enjoy Latin rhythms. On brushes mallets or sticks, I play with both the lyric and the music in mind as I create a rhythmic framework under the other musicians. As American jazz drummer Shelly Manne once said: “we never play a tune the same way once”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":142,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp48fd89be_05_06.jpg" alt="" class="wp-image-142"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Reg Braun, Gavin Forno and Mark Wyer</strong><br><strong>              with Rebecca McHutchison</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":149,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp6ffc8454_05_06-1.jpg" alt="" class="wp-image-149"/></figure></div>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:20:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:20:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-reg-braun-four]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>wp6ffc8454_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/the-reg-braun-four/wp6ffc8454_05_06-1/</link>
+		<pubDate>Thu, 21 May 2020 14:24:05 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp6ffc8454_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>149</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:24:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:24:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp6ffc8454_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>141</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp6ffc8454_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp6ffc8454_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:98;s:6:"height";i:61;s:4:"file";s:30:"2020/05/wp6ffc8454_05_06-1.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Type A Personality Jazz Ensemble</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/</link>
+		<pubDate>Thu, 21 May 2020 14:25:58 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/?page_id=152</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"align":"center","level":1} -->
+<h1 class="has-text-align-center">Type A Personality Jazz Ensemble</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":50} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><em>Type A Personality Jazz&nbsp;describes a musical ensemble comprised of confident band leaders with big personalities (no one here mentioned egos did they?). &nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The original group consisted of Larry Thomson on keyboard, Les Nicholson on trumpet, Bob Passmore on bass, Justin Cataldo on drums, David Salisbury on sax and vocalist Vicki Salisbury. &nbsp;Each of these players heads up their own musical group from Cataldo's&nbsp;<em>The Kitchen</em>&nbsp;to the&nbsp;<em>Stokes Nicholson Big Band</em>&nbsp;founded by Les; &nbsp;Vicki and the Captain in&nbsp;<em>Captain Nemo</em>&nbsp;and Bob's&nbsp;<em>Counterpoint</em>,&nbsp;<em>Magnetic Views</em>&nbsp;for Larry as well as the various other bands many of us have been involved with. &nbsp;Obviously the A-Type brand was the perfect fit for this crew! &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The group was formed in 2011 and has performed at the Townsville Jazz Club, Magnetic Island's Tropical Jazz Party, Townsville JazzFest, the Jezzine Barracks launch and various gigs here and there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The composition of&nbsp;<em>Type A Personality Jazz</em>&nbsp;changes with availability of players, however what does not change is the ethos the group was founded on, &nbsp;our mutual passion for jazz and loving the spotlight.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":153,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp11e037dd_05_06.jpg" alt="" class="wp-image-153"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":154,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp8636906a_05_06.jpg" alt="" class="wp-image-154"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":160,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc4789c4b_05_06-1.jpg" alt="" class="wp-image-160"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":161,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpcb8ea9ee_05_06-1.jpg" alt="" class="wp-image-161"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":162,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp9c68b804_05_06-1.jpg" alt="" class="wp-image-162"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":25} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>152</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:25:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:25:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[type-a-personality-jazz-ensemble]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>wp11e037dd_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wp11e037dd_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:25:51 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp11e037dd_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>153</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:25:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:25:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp11e037dd_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp11e037dd_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp11e037dd_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:540;s:6:"height";i:376;s:4:"file";s:28:"2020/05/wp11e037dd_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp11e037dd_05_06-300x209.jpg";s:5:"width";i:300;s:6:"height";i:209;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp11e037dd_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp8636906a_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wp8636906a_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:25:55 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp8636906a_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>154</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:25:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:25:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp8636906a_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp8636906a_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp8636906a_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:540;s:6:"height";i:287;s:4:"file";s:28:"2020/05/wp8636906a_05_06.jpg";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:28:"wp8636906a_05_06-300x159.jpg";s:5:"width";i:300;s:6:"height";i:159;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp8636906a_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpc4789c4b_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wpc4789c4b_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:26:27 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc4789c4b_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>156</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:26:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:26:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpc4789c4b_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc4789c4b_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpc4789c4b_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:212;s:6:"height";i:286;s:4:"file";s:28:"2020/05/wpc4789c4b_05_06.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpc4789c4b_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpcb8ea9ee_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wpcb8ea9ee_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:26:31 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpcb8ea9ee_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:26:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:26:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpcb8ea9ee_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpcb8ea9ee_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpcb8ea9ee_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:275;s:6:"height";i:286;s:4:"file";s:28:"2020/05/wpcb8ea9ee_05_06.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"wpcb8ea9ee_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp9c68b804_05_06</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wp9c68b804_05_06/</link>
+		<pubDate>Thu, 21 May 2020 14:26:35 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp9c68b804_05_06.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>158</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:26:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:26:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp9c68b804_05_06]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp9c68b804_05_06.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp9c68b804_05_06.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:219;s:6:"height";i:286;s:4:"file";s:28:"2020/05/wp9c68b804_05_06.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"wp9c68b804_05_06-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpc4789c4b_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wpc4789c4b_05_06-1/</link>
+		<pubDate>Thu, 21 May 2020 14:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc4789c4b_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>160</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:27:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:27:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpc4789c4b_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpc4789c4b_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpc4789c4b_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:212;s:6:"height";i:286;s:4:"file";s:30:"2020/05/wpc4789c4b_05_06-1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpc4789c4b_05_06-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wpcb8ea9ee_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wpcb8ea9ee_05_06-1/</link>
+		<pubDate>Thu, 21 May 2020 14:27:14 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpcb8ea9ee_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:27:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:27:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpcb8ea9ee_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wpcb8ea9ee_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wpcb8ea9ee_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:275;s:6:"height";i:286;s:4:"file";s:30:"2020/05/wpcb8ea9ee_05_06-1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wpcb8ea9ee_05_06-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>wp9c68b804_05_06-1</title>
+		<link>http://192.168.33.10/jazztownsville/type-a-personality-jazz-ensemble/wp9c68b804_05_06-1/</link>
+		<pubDate>Thu, 21 May 2020 14:27:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sanega]]></dc:creator>
+		<guid isPermaLink="false">http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp9c68b804_05_06-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>162</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-21 14:27:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-21 14:27:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp9c68b804_05_06-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>152</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://192.168.33.10/jazztownsville/wp-content/uploads/2020/05/wp9c68b804_05_06-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/wp9c68b804_05_06-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:219;s:6:"height";i:286;s:4:"file";s:30:"2020/05/wp9c68b804_05_06-1.jpg";s:5:"sizes";a:1:{s:9:"thumbnail";a:4:{s:4:"file";s:30:"wp9c68b804_05_06-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 				</channel>
 </rss>
 	
